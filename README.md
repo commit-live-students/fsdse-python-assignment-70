@@ -1,4 +1,4 @@
-# Write a Python program to find common values between two arrays.
+# Write a Python program to find common values between two arrays using Numpy.
 
 Sample Output:
 
