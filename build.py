@@ -2,6 +2,7 @@ import numpy as np
 
 
 def solution(array1, array2):
-    """
-    Enter your code here
-    """
+    set_a = set(array1)
+    set_b = set(array2)
+    list_o = sorted(list(set_a & set_b))
+    return list_o
